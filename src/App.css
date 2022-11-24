@@ -1,0 +1,43 @@
+*{
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+}
+.tempo{
+  position: absolute;
+  margin-top: 6em;
+  margin-left: 15.2em;
+  font-size: 3em;
+  font-weight: bold;
+  color: #121212;
+}
+
+.area{
+  flex-direction: row;
+  position: absolute;
+  margin-left: 45.5em;
+  margin-top: 30rem;
+}
+
+.button{
+  margin: 0 45px 0 0;
+  background-color: #121212;
+  color: #fff;
+  padding: 7px;
+  border: 2px solid #121212;
+}
+
+.ultima{
+  position: absolute;
+  margin-left: 45.9em;
+  margin-top: 33rem;
+}
+
+.ultima h2{
+  margin-left: 1.5em;
+}
+
+.ultima p{
+  font-size: 20px;
+  font-weight: 700;
+}
